@@ -1,0 +1,19 @@
+{
+  "name": "polyfill-dom",
+  "version": "0.0.1",
+  "description": "Simple DOM polyfill for unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lapixx/polyfill-dom.git"
+  },
+  "author": "Tijn Kersjes <tijn@divbyzero.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lapixx/polyfill-dom/issues"
+  },
+  "homepage": "https://github.com/Lapixx/polyfill-dom#readme"
+}
